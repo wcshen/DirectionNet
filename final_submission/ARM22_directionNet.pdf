@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META HTTP-EQUIV="Cache-Control" CONTENT="Public"> 
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Error message</title>
+<base href="https://ras.papercept.net/conferences/templates/">
+<link rel="stylesheet" type="text/css" href="../css.css">
+<style>
+td {vertical-align: top}
+.c {text-align: center}
+table.s {
+	border-collapse: collapse;
+}
+table.s td{
+	border-width: 1px;
+	padding: 4px;
+	border-style: solid;
+	border-color: gray;
+}
+</style>
+<script language="javascript">
+function command(arg){
+   document.forms[0].Command.checked = true;
+   document.forms[0].Command.value = arg + '.x';
+   document.forms[0].submit();
+}
+</script>
+</head>
+
+<body>
+
+
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="100%" background="/images/ras_brown.jpg" BORDER="0"
+ALT="">&nbsp;<a href="http://www.ieee-ras.org/" border="0" target="_new"><IMG SRC="/images/ras_banner.jpg" BORDER="0" ALT=""></a></td>
+</tr>
+<tr>
+<td width="100%" height="10" background="/images/ras_brown.jpg" BORDER="0" ALT="">&nbsp;</td>
+</tr>
+</table>
+<table width="100%" height="80%" border="0" cellspacing="0" cellpadding="0">
+<tr><td width=5 height="100%" background="/images/ras_brown.jpg">&nbsp;</td><td width=5>&nbsp;</td><td height="100%" width="100%" valign="top"><BR>
+
+
+<h3>Error Message</h3>
+<form method="POST" action="https://ras.papercept.net/conferences/scripts/">
+<div style="height: 600px">
+<table border="0" width="90%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%">
+      The following errors were detected. 
+    	<p><font color="#0000FF"><b>Do not issue a new command before the page you are working on has been processed Please <a href="https://ras.papercept.net/conferences/scripts/login.pl">log in</a> again.</b></font>
+    </td>
+  </tr>
+</table>
+</div>
+<p>&nbsp;</p>
+<input type="hidden" name="FromErrorpage" value="ON">
+<input type="checkbox" name="Command" value="ON" style="position:absolute; left:0; display:none">
+<input type="hidden" name="Fields" value="FromErrorpage,Command">
+<input type="hidden" name="Hidden" value="FromErrorpage">
+<input type="hidden" name="Hash" value="bbcc796dc153f90defe8fffdacf43d26">
+</form>
+
+</td><td width=5 height="100%"
+background="/images/ras_brown.jpg"">&nbsp;</td></tr>
+<tr>
+<td colspan=4 width="100%" height="16" background="/images/ras_brown.jpg" BORDER="0" ALT="" valign="center"><p align="center"><span style="font-size:8pt;line-height:10pt;color:ffffff;">Technical Content &copy; IEEE Robotics & Automation Society</span> </p></td>
+</tr>
+<tr>
+<td colspan=4 width="100%"><p align="right"><span style="font-size:8pt;line-height:10pt;color:666699;"style="text-decoration:none;"><br>
+<img src="/images/pc_logo_small.png" border="0" align="right" style="margin-left: 10px; margin-right: 10px">
+This site is protected by copyright and trademark laws under US and International law.<br>
+All rights reserved. &copy; 2002-2022 PaperCept, Inc.<br>
+Page generated 2022-05-28&nbsp;&nbsp;20:49:58 PST &nbsp;<a href="" onclick="window.open('/conferences/scripts/about.pl','tc','width=1000,scrollbars=yes'); return false">Terms of use</a>
+</span></p></td>
+</tr>
+</table>
+</body>
+
+
+</body>
+
+</html>

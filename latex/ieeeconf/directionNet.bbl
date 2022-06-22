@@ -1,0 +1,279 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{1}
+F.~Codevilla, M.~Müller, A.~López, V.~Koltun, and A.~Dosovitskiy,
+  ``End-to-end driving via conditional imitation learning,'' in \emph{2018 IEEE
+  International Conference on Robotics and Automation (ICRA)}, 2018, pp.
+  4693--4700.
+
+\bibitem{2}
+H.~Xu, Y.~Gao, F.~Yu, and T.~Darrell, ``End-to-end learning of driving models
+  from large-scale video datasets,'' in \emph{2017 IEEE Conference on Computer
+  Vision and Pattern Recognition (CVPR)}, 2017, pp. 3530--3538.
+
+\bibitem{3}
+S.~Hecker, D.~Dai, and L.~V. Gool, ``End-to-end learning of driving models with
+  surround-view cameras and route planners,'' \emph{Springer, Cham}, 2018.
+
+\bibitem{4}
+A.~Amini, I.~Gilitschenski, J.~Phillips, J.~Moseyko, and D.~Rus, ``Learning
+  robust control policies for end-to-end autonomous driving from data-driven
+  simulation,'' \emph{IEEE Robotics and Automation Letters}, vol.~5, no.~2, pp.
+  1--1, 2020.
+
+\bibitem{5}
+A.~Amini, G.~Rosman, S.~Karaman, and D.~Rus, ``Variational end-to-end
+  navigation and localization,'' \emph{arXiv}, 2019.
+
+\bibitem{6}
+G.~Kahn, P.~Abbeel, and S.~Levine, ``Badgr: An autonomous self-supervised
+  learning-based navigation system,'' \emph{IEEE Robotics and Automation
+  Letters}, vol.~PP, no.~99, pp. 1--1, 2021.
+
+\bibitem{7}
+A.~Stentz, D.~Fox, M.~Montemerlo, and M.~Montemerlo, ``Fastslam: A factored
+  solution to the simultaneous localization and mapping problem with unknown
+  data association,'' in \emph{In Proceedings of the AAAI National Conference
+  on Artificial Intelligence}.\hskip 1em plus 0.5em minus 0.4em\relax AAAI,
+  2003, pp. 593--598.
+
+\bibitem{8}
+A.~J. Davison, I.~D. Reid, N.~D. Molton, and O.~Stasse, ``Monoslam: real-time
+  single camera slam,'' \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, vol.~29, no.~6, pp. 1052--1067, 2007.
+
+\bibitem{9}
+J.~J. Leonard and H.~F. Durrant-Whyte, ``Simultaneous map building and
+  localization for an autonomous mobile robot,'' in \emph{Intelligent Robots
+  and Systems '91. 'Intelligence for Mechanical Systems, Proceedings IROS '91.
+  IEEE/RSJ International Workshop on}, 1991.
+
+\bibitem{10}
+Q.~Luo, H.~Ma, L.~Tang, Y.~Wang, and R.~Xiong, ``3d-ssd: Learning hierarchical
+  features from rgb-d images for amodal 3d object detection - sciencedirect,''
+  \emph{Neurocomputing}, vol. 378, pp. 364--374, 2020.
+
+\bibitem{11}
+L.~C. Chen, G.~Papandreou, I.~Kokkinos, K.~Murphy, and A.~L. Yuille, ``Deeplab:
+  Semantic image segmentation with deep convolutional nets, atrous convolution,
+  and fully connected crfs,'' \emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}, vol.~40, no.~4, pp. 834--848, 2018.
+
+\bibitem{12}
+A.~H. Lang, S.~Vora, H.~Caesar, L.~Zhou, J.~Yang, and O.~Beijbom,
+  ``Pointpillars: Fast encoders for object detection from point clouds,'' in
+  \emph{2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, 2019, pp. 12\,689--12\,697.
+
+\bibitem{13}
+W.~Liu, D.~Anguelov, D.~Erhan, C.~Szegedy, S.~Reed, C.~Y. Fu, and A.~C. Berg,
+  ``Ssd: Single shot multibox detector,'' \emph{Springer, Cham}, 2016.
+
+\bibitem{14}
+J.~Redmon and A.~Farhadi, ``Yolov3: An incremental improvement,'' \emph{arXiv
+  e-prints}, 2018.
+
+\bibitem{15}
+S.~Karaman, M.~R. Walter, A.~Perez, E.~Frazzoli, and S.~J. Teller, ``Anytime
+  motion planning using the rrt*,'' in \emph{2011 IEEE International Conference
+  on Robotics and Automation}, 2011.
+
+\bibitem{16}
+L.~E. Kavraki, P.~Svestka, J.~C. Latombe, and M.~H. Overmars, ``Probabilistic
+  roadmaps for path planning in high-dimensional configuration spaces,''
+  \emph{IEEE Transactions on Robotics and Automation}, vol.~12, no.~4, pp.
+  566--580, 1996.
+
+\bibitem{17}
+S.~M. LaValle and J.~J. Kuffner, ``Rapidly-exploring random trees: Progress and
+  prospects,'' 2000.
+
+\bibitem{18}
+P.~Falcone, F.~Borrelli, J.~Asgari, H.~E. Tseng, and D.~Hrovat, ``Predictive
+  active steering control for autonomous vehicle systems,'' \emph{IEEE
+  Transactions on Control Systems Technology}, vol.~15, no.~3, pp. 566--580,
+  2007.
+
+\bibitem{19}
+W.~Schwarting, J.~Alonso-Mora, L.~Paull, S.~Karaman, and D.~Rus, ``Safe
+  nonlinear trajectory generation for parallel autonomy with a dynamic vehicle
+  model,'' \emph{IEEE Transactions on Intelligent Transportation Systems}, pp.
+  2994--3008, 2017.
+
+\bibitem{20}
+\BIBentryALTinterwordspacing
+J.~Oh, S.~Singh, and H.~Lee, ``Value prediction network,'' in \emph{Advances in
+  Neural Information Processing Systems}, I.~Guyon, U.~V. Luxburg, S.~Bengio,
+  H.~Wallach, R.~Fergus, S.~Vishwanathan, and R.~Garnett, Eds., vol.~30.\hskip
+  1em plus 0.5em minus 0.4em\relax Curran Associates, Inc., 2017. [Online].
+  Available:
+  \url{https://proceedings.neurips.cc/paper/2017/file/ffbd6cbb019a1413183c8d08f2929307-Paper.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{21}
+G.~Kahn, A.~Villaflor, B.~Ding, P.~Abbeel, and S.~Levine, ``Self-supervised
+  deep reinforcement learning with generalized computation graphs for robot
+  navigation,'' in \emph{2018 IEEE International Conference on Robotics and
+  Automation (ICRA)}, 2018, pp. 5129--5136.
+
+\bibitem{22}
+T.~Manderson, S.~Wapnick, D.~Meger, and G.~Dudek, ``Learning to drive off road
+  on smooth terrain in unstructured environments using an on-board camera and
+  sparse aerial images,'' in \emph{2020 IEEE International Conference on
+  Robotics and Automation (ICRA)}, 2020, pp. 1263--1269.
+
+\bibitem{23}
+D.~Pomerleau, ``Alvinn : An autonomous land vehicle in a neural network,''
+  \emph{Advances in Neural Information Processing Systems}, vol.~1, 1989.
+
+\bibitem{24}
+M.~Laskey, J.~Lee, R.~Fox, A.~Dragan, and K.~Goldberg, ``Dart: Noise injection
+  for robust imitation learning,'' in \emph{1s Conference on Robot Learning},
+  2017.
+
+\bibitem{25}
+M.~Bojarski, D.~D. Testa, D.~Dworakowski, B.~Firner, B.~Flepp, P.~Goyal, L.~D.
+  Jackel, M.~Monfort, U.~Muller, and J.~Zhang, ``End to end learning for
+  self-driving cars,'' 2016.
+
+\bibitem{26}
+\BIBentryALTinterwordspacing
+J.~Ho and S.~Ermon, ``Generative adversarial imitation learning,'' in
+  \emph{Advances in Neural Information Processing Systems}, D.~Lee,
+  M.~Sugiyama, U.~Luxburg, I.~Guyon, and R.~Garnett, Eds., vol.~29.\hskip 1em
+  plus 0.5em minus 0.4em\relax Curran Associates, Inc., 2016. [Online].
+  Available:
+  \url{https://proceedings.neurips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{27}
+A.~Giusti, J.~Guzzi, D.~Ciresan, F.~L. He, J.~P. Rodriguez, F.~Fontana,
+  M.~Faessler, C.~Forster, J.~Schmidhuber, and G.~D. Caro, ``A machine learning
+  approach to visual perception of forest trails for mobile robots,''
+  \emph{IEEE Robotics and Automation Letters}, pp. 1--1, 2017.
+
+\bibitem{28}
+S.~Ross, G.~J. Gordon, and J.~A. Bagnell, ``A reduction of imitation learning
+  and structured prediction to no-regret online learning,'' \emph{Aistats},
+  vol. abs/1011.0686, 2011.
+
+\bibitem{29}
+C.~Chen, A.~Seff, A.~Kornhauser, and J.~Xiao, ``Deepdriving: Learning
+  affordance for direct perception in autonomous driving,'' \emph{IEEE}, pp.
+  2722--2730, 2015.
+
+\bibitem{30}
+M.~Al-Qizwini, I.~Barjasteh, H.~Al-Qassab, and H.~Radha, ``Deep learning
+  algorithm for autonomous driving using googlenet,'' in \emph{2017 IEEE
+  Intelligent Vehicles Symposium (IV)}, 2017.
+
+\bibitem{31}
+\BIBentryALTinterwordspacing
+A.~Sauer, N.~Savinov, and A.~Geiger, ``Conditional affordance learning for
+  driving in urban environments,'' in \emph{Proceedings of The 2nd Conference
+  on Robot Learning}, ser. Proceedings of Machine Learning Research,
+  A.~Billard, A.~Dragan, J.~Peters, and J.~Morimoto, Eds., vol.~87.\hskip 1em
+  plus 0.5em minus 0.4em\relax PMLR, 29--31 Oct 2018, pp. 237--252. [Online].
+  Available: \url{https://proceedings.mlr.press/v87/sauer18a.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{32}
+A.~Hm, W.~A. Yue, X.~A. Rong, B.~Sk, and T.~A. Li, ``Deepgoal: Learning to
+  drive with driving intention from human control demonstration -
+  sciencedirect,'' \emph{Robotics and Autonomous Systems}, vol. 127.
+
+\bibitem{33}
+X.~Li, J.~Li, X.~Hu, and J.~Yang, ``Line-cnn: End-to-end traffic line detection
+  with line proposal unit,'' \emph{IEEE Transactions on Intelligent
+  Transportation Systems}, vol.~21, no.~1, pp. 248--258, 2020.
+
+\bibitem{34}
+X.~Chen, H.~Ma, J.~Wan, B.~Li, and T.~Xia, ``Multi-view 3d object detection
+  network for autonomous driving,'' in \emph{2017 IEEE Conference on Computer
+  Vision and Pattern Recognition (CVPR)}, 2017.
+
+\bibitem{35}
+A.~Milioto, I.~Vizzo, J.~Behley, and C.~Stachniss, ``Rangenet ++: Fast and
+  accurate lidar semantic segmentation,'' in \emph{2019 IEEE/RSJ International
+  Conference on Intelligent Robots and Systems (IROS)}, 2019.
+
+\bibitem{36}
+R.~Q. Charles, H.~Su, M.~Kaichun, and L.~J. Guibas, ``Pointnet: Deep learning
+  on point sets for 3d classification and segmentation,'' in \emph{2017 IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR)}, 2017, pp.
+  77--85.
+
+\bibitem{GND}
+A.~Paigwar, �.~Erkent, D.~Sierra-Gonzalez, and C.~Laugier, ``Gndnet: Fast
+  ground plane estimation and point cloud segmentation for autonomous
+  vehicles,'' in \emph{2020 IEEE/RSJ International Conference on Intelligent
+  Robots and Systems (IROS)}, 2020, pp. 2150--2156.
+
+\bibitem{bn}
+S.~Ioffe and C.~Szegedy, ``Batch normalization: Accelerating deep network
+  training by reducing internal covariate shift,'' in \emph{Proceedings of the
+  32nd International Conference on International Conference on Machine Learning
+  - Volume 37}, ser. ICML'15.\hskip 1em plus 0.5em minus 0.4em\relax JMLR.org,
+  2015, p. 448–456.
+
+\bibitem{CBAM}
+S.~Woo, J.~Park, J.~Y. Lee, and I.~S. Kweon, ``Cbam: Convolutional block
+  attention module,'' \emph{Springer, Cham}, 2018.
+
+\bibitem{37}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' in \emph{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2016, pp. 770--778.
+
+\bibitem{CARLA}
+A.~Dosovitskiy, G.~Ros, F.~Codevilla, A.~Lopez, and V.~Koltun, ``{CARLA}: {An}
+  open urban driving simulator,'' in \emph{Proceedings of the 1st Annual
+  Conference on Robot Learning}, 2017, pp. 1--16.
+
+\bibitem{tensorflow2015-whitepaper}
+\BIBentryALTinterwordspacing
+M.~Abadi, A.~Agarwal, P.~Barham, E.~Brevdo, Z.~Chen, C.~Citro, G.~S. Corrado,
+  A.~Davis, J.~Dean, M.~Devin, S.~Ghemawat, I.~Goodfellow, A.~Harp, G.~Irving,
+  M.~Isard, Y.~Jia, R.~Jozefowicz, L.~Kaiser, M.~Kudlur, J.~Levenberg,
+  D.~Man\'{e}, R.~Monga, S.~Moore, D.~Murray, C.~Olah, M.~Schuster, J.~Shlens,
+  B.~Steiner, I.~Sutskever, K.~Talwar, P.~Tucker, V.~Vanhoucke, V.~Vasudevan,
+  F.~Vi\'{e}gas, O.~Vinyals, P.~Warden, M.~Wattenberg, M.~Wicke, Y.~Yu, and
+  X.~Zheng, ``{TensorFlow}: Large-scale machine learning on heterogeneous
+  systems,'' 2015, software available from tensorflow.org. [Online]. Available:
+  \url{https://www.tensorflow.org/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{38}
+A.~Geiger, P.~Lenz, and R.~Urtasun, ``Are we ready for autonomous driving? the
+  kitti vision benchmark suite,'' in \emph{2012 IEEE Conference on Computer
+  Vision and Pattern Recognition}, 2012, pp. 3354--3361.
+
+\bibitem{39}
+A.~Geiger, P.~Lenz, C.~Stiller, and R.~Urtasun, ``Vision meets robotics: The
+  {KITTI} dataset,'' \emph{International Journal of Robotics Research},
+  vol.~32, no.~11, pp. 1231 -- 1237, Sept. 2013.
+
+\bibitem{DA}
+L.~T. Triess, M.~Dreissig, C.~B. Rist, and J.~Marius~Zöllner, ``A survey on
+  deep domain adaptation for lidar perception,'' in \emph{2021 IEEE Intelligent
+  Vehicles Symposium Workshops (IV Workshops)}, 2021, pp. 350--357.
+
+\end{thebibliography}

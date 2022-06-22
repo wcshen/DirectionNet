@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.2}{RELETED WORK}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Reinforcement Learning}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Imitation Learning}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Direct Perception Approach}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{METHODS}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Road Main Direction Representation}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Point Clouds Feature Extraction}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Point clouds Rasterization}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Pillar Feature Extraction and Pseudo Image}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Attention Mechanism}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Loss Function}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{EXPERIMENTS}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Data Collection}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Data Processing and Augmentation}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Implementation Details}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Evaluation Metrics}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{Results}{section.4}% 18
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Performance on CARLA}{subsection.4.5}% 19
+\BOOKMARK [3][-]{subsubsection.4.5.2}{Ablation Experiments}{subsection.4.5}% 20
+\BOOKMARK [3][-]{subsubsection.4.5.3}{Generalization Experiments}{subsection.4.5}% 21
+\BOOKMARK [1][-]{section.5}{CONCLUSIONS}{}% 22
+\BOOKMARK [1][-]{section*.11}{References}{}% 23
